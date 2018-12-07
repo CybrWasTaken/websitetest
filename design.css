@@ -1,3 +1,4 @@
+charset "UTF-8";
 body {
 	font-family: source-sans-pro;
 	background-color: #f2f2f2;
@@ -87,3 +88,4 @@ ul li:hover a {
 	font-weight: lighter;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
